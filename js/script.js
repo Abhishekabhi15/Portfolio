@@ -4,7 +4,6 @@
 const typingText = document.getElementById("typingText");
 const typingWords = [
   "Full-Stack Developer",
-  "Web Developer",
   "Software Developer",
   "Computer Science Student"
 ];
