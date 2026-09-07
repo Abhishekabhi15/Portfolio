@@ -3,8 +3,10 @@
    ========================= */
 const typingText = document.getElementById("typingText");
 const typingWords = [
-  "AI/ML Developer",
-  "Full-Stack Developer"
+  "Full-Stack Developer",
+  "Web Developer",
+  "Software Developer",
+  "Computer Science Student"
 ];
 
 let typingWord = 0;
